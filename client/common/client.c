@@ -36,6 +36,7 @@
 #include <freerdp/utils/passphrase.h>
 #include <freerdp/client/cmdline.h>
 #include <freerdp/client/channels.h>
+#include <freerdp/event.h>
 #include <freerdp/utils/smartcardlogon.h>
 
 #if defined(CHANNEL_AINPUT_CLIENT)
@@ -96,6 +97,7 @@ static BOOL freerdp_client_common_new(freerdp* instance, rdpContext* context)
 
 	pEntryPoints = instance->pClientEntryPoints;
 	WINPR_ASSERT(pEntryPoints);
+
 	return IFCALLRESULT(TRUE, pEntryPoints->ClientNew, instance, context);
 }
 
@@ -464,6 +466,11 @@ static BOOL client_cli_authenticate_raw(freerdp* instance, rdp_auth_reason reaso
 		case AUTH_NLA:
 			prompt = auth;
 			break;
+		case AUTH_FIDO_PIN:
+			prompt = authPin;
+			prompt[2] = "FIDO2 PIN:       ";
+			pinOnly = TRUE;
+			break;
 		case GW_AUTH_HTTP:
 		case GW_AUTH_RDG:
 		case GW_AUTH_RPC:
@@ -559,6 +566,7 @@ BOOL client_cli_authenticate_ex(freerdp* instance, char** username, char** passw
 		case AUTH_TLS:
 		case AUTH_RDP:
 		case AUTH_SMARTCARD_PIN: /* in this case password is pin code */
+		case AUTH_FIDO_PIN:
 			if ((*username) && (*password))
 				return TRUE;
 			break;

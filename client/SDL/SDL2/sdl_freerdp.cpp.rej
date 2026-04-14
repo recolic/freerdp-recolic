@@ -1,0 +1,11 @@
+diff a/client/SDL/SDL2/sdl_freerdp.cpp b/client/SDL/SDL2/sdl_freerdp.cpp	(rejected hunks)
+@@ -611,6 +611,9 @@ static BOOL sdl_pre_connect(freerdp* instance)
+ 	if (PubSub_SubscribeChannelDisconnected(instance->context->pubSub,
+ 	                                        sdl_OnChannelDisconnectedEventHandler) < 0)
+ 		return FALSE;
++	if (PubSub_SubscribeUserNotification(instance->context->pubSub,
++	                                     sdl_OnUserNotificationEventHandler) < 0)
++		return FALSE;
+ 
+ 	if (!freerdp_settings_get_bool(settings, FreeRDP_AuthenticationOnly))
+ 	{

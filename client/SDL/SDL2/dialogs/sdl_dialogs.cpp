@@ -100,6 +100,7 @@ BOOL sdl_authenticate_ex(freerdp* instance, char** username, char** password, ch
 		case AUTH_TLS:
 		case AUTH_RDP:
 		case AUTH_SMARTCARD_PIN: /* in this case password is pin code */
+		case AUTH_FIDO_PIN:
 			if ((*username) && (*password))
 				return TRUE;
 			break;
@@ -550,6 +551,7 @@ BOOL sdl_auth_dialog_show(const SDL_UserAuthArg* args)
 	const std::vector<std::string> auth = { "Username:        ", "Domain:          ",
 		                                    "Password:        " };
 	const std::vector<std::string> authPin = { "Device:       ", "PIN:        " };
+	const std::vector<std::string> fidoPin = { "FIDO2 PIN:    " };
 	const std::vector<std::string> gw = { "GatewayUsername: ", "GatewayDomain:   ",
 		                                  "GatewayPassword: " };
 	std::vector<std::string> prompt;
@@ -559,6 +561,9 @@ BOOL sdl_auth_dialog_show(const SDL_UserAuthArg* args)
 	{
 		case AUTH_SMARTCARD_PIN:
 			prompt = authPin;
+			break;
+		case AUTH_FIDO_PIN:
+			prompt = fidoPin;
 			break;
 		case AUTH_TLS:
 		case AUTH_RDP:
@@ -581,7 +586,12 @@ BOOL sdl_auth_dialog_show(const SDL_UserAuthArg* args)
 		std::vector<std::string> initial{ args->user ? args->user : "Smartcard", "" };
 		std::vector<Uint32> flags = { SdlInputWidget::SDL_INPUT_READONLY,
 			                          SdlInputWidget::SDL_INPUT_MASK };
-		if (args->result != AUTH_SMARTCARD_PIN)
+		if (args->result == AUTH_FIDO_PIN)
+		{
+			initial = { "" };
+			flags = { SdlInputWidget::SDL_INPUT_MASK };
+		}
+		else if (args->result != AUTH_SMARTCARD_PIN)
 		{
 			initial = { args->user ? args->user : "", args->domain ? args->domain : "",
 				        args->password ? args->password : "" };

@@ -100,6 +100,7 @@ BOOL sdl_authenticate_ex(freerdp* instance, char** username, char** password, ch
 		case AUTH_TLS:
 		case AUTH_RDP:
 		case AUTH_SMARTCARD_PIN: /* in this case password is pin code */
+		case AUTH_FIDO_PIN:
 			if ((*username) && (*password))
 				return TRUE;
 			break;
@@ -548,6 +549,7 @@ BOOL sdl_auth_dialog_show(const SDL_UserAuthArg* args)
 	const std::vector<std::string> auth = { "Username:        ", "Domain:          ",
 		                                    "Password:        " };
 	const std::vector<std::string> authPin = { "Device:       ", "PIN:        " };
+	const std::vector<std::string> fidoPin = { "FIDO2 PIN:    " };
 	const std::vector<std::string> gw = { "GatewayUsername: ", "GatewayDomain:   ",
 		                                  "GatewayPassword: " };
 	std::vector<std::string> prompt;

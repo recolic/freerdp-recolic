@@ -1155,6 +1155,8 @@ static void sdl_post_disconnect(freerdp* instance)
 	                                   sdl_OnChannelConnectedEventHandler);
 	PubSub_UnsubscribeChannelDisconnected(instance->context->pubSub,
 	                                      sdl_OnChannelDisconnectedEventHandler);
+	PubSub_UnsubscribeUserNotification(instance->context->pubSub,
+	                                   sdl_OnUserNotificationEventHandler);
 	gdi_free(instance);
 }
 
