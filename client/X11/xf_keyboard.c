@@ -1353,54 +1353,6 @@ BOOL xf_keyboard_handle_special_keys(xfContext* xfc, KeySym keysym)
 	if (rc == 0)
 		return TRUE;
 
-	if (!xfc->remote_app && xfc->fullscreen_toggle)
-	{
-		switch (keysym)
-		{
-			case XK_Return:
-				if (mod.Ctrl && mod.Alt)
-				{
-					/* Ctrl-Alt-Enter: toggle full screen */
-					WLog_INFO(TAG, "<ctrl>+<alt>+<enter> pressed, toggling fullscreen state...");
-					xf_sync_kbd_state(xfc);
-					xf_toggle_fullscreen(xfc);
-					return TRUE;
-				}
-				break;
-			default:
-				break;
-		}
-	}
-
-	if (mod.Ctrl && mod.Alt)
-	{
-		switch (keysym)
-		{
-			case XK_m:
-			case XK_M:
-				WLog_INFO(TAG, "<ctrl>+<alt>+m pressed, minimizing RDP session...");
-				xf_sync_kbd_state(xfc);
-				xf_minimize(xfc);
-				return TRUE;
-			case XK_c:
-			case XK_C:
-				/* Ctrl-Alt-C: toggle control */
-				WLog_INFO(TAG, "<ctrl>+<alt>+c pressed, toggle encomps control...");
-				if (freerdp_client_encomsp_toggle_control(xfc->common.encomsp))
-					return TRUE;
-				break;
-			case XK_d:
-			case XK_D:
-				/* <ctrl>+<alt>+d: disconnect session */
-				WLog_INFO(TAG, "<ctrl>+<alt>+d pressed, terminating RDP session...");
-				xf_sync_kbd_state(xfc);
-				return freerdp_abort_connect_context(&xfc->common.context);
-
-			default:
-				break;
-		}
-	}
-
 #if 0 /* set to 1 to enable multi touch gesture simulation via keyboard */
 #ifdef WITH_XRENDER
 
@@ -1496,25 +1448,6 @@ void xf_keyboard_handle_special_keys_release(xfContext* xfc, KeySym keysym)
 		return;
 
 	xfc->wasRightCtrlAlreadyPressed = FALSE;
-
-	if (!xfc->ungrabKeyboardWithRightCtrl)
-		return;
-
-	// all requirements for ungrab are fulfilled, ungrabbing now
-	XF_MODIFIER_KEYS mod = WINPR_C_ARRAY_INIT;
-	xk_keyboard_get_modifier_keys(xfc, &mod);
-
-	if (!mod.RightCtrl)
-	{
-		if (!xfc->fullscreen)
-		{
-			xf_sync_kbd_state(xfc);
-			freerdp_client_encomsp_toggle_control(xfc->common.encomsp);
-		}
-
-		xfc->mouse_active = FALSE;
-		xf_ungrab(xfc);
-	}
 
 	// ungrabbed
 	xfc->ungrabKeyboardWithRightCtrl = FALSE;
