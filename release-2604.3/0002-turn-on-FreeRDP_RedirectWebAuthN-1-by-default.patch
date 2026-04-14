@@ -1,0 +1,28 @@
+From 6d5fa0e35fb5a2e1a7f23dd9c07252c7a6fd804e Mon Sep 17 00:00:00 2001
+From: WeepingDogel <weepingdogel@gmail.com>
+Date: Tue, 14 Apr 2026 09:13:45 +0800
+Subject: [PATCH 2/2] turn on FreeRDP_RedirectWebAuthN=1 by default
+
+Always load the RDPEWA (WebAuthN) channel regardless of the
+FreeRDP_RedirectWebAuthN setting, enabling FIDO/WebAuthn passthrough
+by default.
+---
+ client/common/cmdline.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/client/common/cmdline.c b/client/common/cmdline.c
+index b4c42396b..5af55fa4b 100644
+--- a/client/common/cmdline.c
++++ b/client/common/cmdline.c
+@@ -6125,7 +6125,7 @@ BOOL freerdp_client_load_addins(rdpChannels* channels, rdpSettings* settings)
+ 		{ FreeRDP_RemoteCredentialGuard, RDPEAR_CHANNEL_NAME, nullptr },
+ #endif
+ #ifdef CHANNEL_RDPEWA_CLIENT
+-		{ FreeRDP_RedirectWebAuthN, RDPEWA_CHANNEL_NAME, nullptr },
++		{ FreeRDP_BOOL_UNUSED, RDPEWA_CHANNEL_NAME, nullptr }, /* always loaded */
+ #endif
+ 	};
+ 
+-- 
+2.50.1 (Apple Git-155)
+

@@ -1,0 +1,157 @@
+From d155bad6a9e700f8238b32426dc2d63d255826ba Mon Sep 17 00:00:00 2001
+From: WeepingDogel <weepingdogel@gmail.com>
+Date: Tue, 14 Apr 2026 09:13:12 +0800
+Subject: [PATCH 1/2] disable keyboard shortcuts for FreeRDP fork
+
+Disable all keyboard shortcuts (Ctrl-Alt-Enter fullscreen toggle,
+Ctrl-Alt-M minimize, Ctrl-Alt-C encomsp toggle, Ctrl-Alt-D disconnect,
+RightCtrl ungrab) for X11, Wayland, and Windows clients.
+
+Build: cmake .. -DCMAKE_BUILD_TYPE=Release -DWITH_CLIENT_SDL=OFF -DWITH_SERVER=OFF
+---
+ README.md                        |  6 +++
+ client/Android/Studio/.gitignore |  1 +
+ client/Wayland/wlf_input.c       |  3 --
+ client/Windows/wf_event.c        |  3 +-
+ client/X11/xf_keyboard.c         | 67 --------------------------------
+ 5 files changed, 9 insertions(+), 71 deletions(-)
+ create mode 100644 client/Android/Studio/.gitignore
+
+diff --git a/README.md b/README.md
+index 975f1bbde..10c166fad 100644
+--- a/README.md
++++ b/README.md
+@@ -1,3 +1,9 @@
++# recolic fork: NO shortcut
++
++disabled all shortcut + turn on RedirectWebAuthN=1 by default
++
++Build: `cmake .. -DCMAKE_BUILD_TYPE=Release -DWITH_CLIENT_SDL=OFF -DWITH_SERVER=OFF   -DCHANNEL_RDPEWA=ON -DCHANNEL_RDPEWA_CLIENT=ON`
++
+ # FreeRDP: A Remote Desktop Protocol Implementation
+ 
+ FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license.
+diff --git a/client/Android/Studio/.gitignore b/client/Android/Studio/.gitignore
+new file mode 100644
+index 000000000..6b19dc7f4
+--- /dev/null
++++ b/client/Android/Studio/.gitignore
+@@ -0,0 +1 @@
++/.gradle
+\ No newline at end of file
+diff --git a/client/Wayland/wlf_input.c b/client/Wayland/wlf_input.c
+index 27a8b7050..99b8a84aa 100644
+--- a/client/Wayland/wlf_input.c
++++ b/client/Wayland/wlf_input.c
+@@ -323,9 +323,6 @@ BOOL wlf_handle_key(freerdp* instance, const UwacKeyEvent* ev)
+ 
+ 	WINPR_ASSERT(instance->context);
+ 	wlfContext* ctx = (wlfContext*)instance->context;
+-	if (freerdp_settings_get_bool(instance->context->settings, FreeRDP_GrabKeyboard) &&
+-	    ev->raw_key == KEY_RIGHTCTRL)
+-		wlf_handle_ungrab_key(instance, ev);
+ 
+ 	rdpInput* input = instance->context->input;
+ 
+diff --git a/client/Windows/wf_event.c b/client/Windows/wf_event.c
+index 0bda81c38..4dd300863 100644
+--- a/client/Windows/wf_event.c
++++ b/client/Windows/wf_event.c
+@@ -137,7 +137,8 @@ LRESULT CALLBACK wf_ll_kbd_proc(int nCode, WPARAM wParam, LPARAM lParam)
+ 				DEBUG_KBD("keydown %d scanCode 0x%08lX flags 0x%08lX vkCode 0x%08lX",
+ 				          (wParam == WM_KEYDOWN), p->scanCode, p->flags, p->vkCode);
+ 
+-				if (wfc->fullscreen_toggle && (p->vkCode == VK_RETURN || p->vkCode == VK_CANCEL))
++				// disable Ctrl-Alt-Enter
++				if (false && wfc->fullscreen_toggle && (p->vkCode == VK_RETURN || p->vkCode == VK_CANCEL))
+ 				{
+ 					if (alt_ctrl_down())
+ 					{
+diff --git a/client/X11/xf_keyboard.c b/client/X11/xf_keyboard.c
+index 788fae0f0..922bf599a 100644
+--- a/client/X11/xf_keyboard.c
++++ b/client/X11/xf_keyboard.c
+@@ -1353,54 +1353,6 @@ BOOL xf_keyboard_handle_special_keys(xfContext* xfc, KeySym keysym)
+ 	if (rc == 0)
+ 		return TRUE;
+ 
+-	if (!xfc->remote_app && xfc->fullscreen_toggle)
+-	{
+-		switch (keysym)
+-		{
+-			case XK_Return:
+-				if (mod.Ctrl && mod.Alt)
+-				{
+-					/* Ctrl-Alt-Enter: toggle full screen */
+-					WLog_INFO(TAG, "<ctrl>+<alt>+<enter> pressed, toggling fullscreen state...");
+-					xf_sync_kbd_state(xfc);
+-					xf_toggle_fullscreen(xfc);
+-					return TRUE;
+-				}
+-				break;
+-			default:
+-				break;
+-		}
+-	}
+-
+-	if (mod.Ctrl && mod.Alt)
+-	{
+-		switch (keysym)
+-		{
+-			case XK_m:
+-			case XK_M:
+-				WLog_INFO(TAG, "<ctrl>+<alt>+m pressed, minimizing RDP session...");
+-				xf_sync_kbd_state(xfc);
+-				xf_minimize(xfc);
+-				return TRUE;
+-			case XK_c:
+-			case XK_C:
+-				/* Ctrl-Alt-C: toggle control */
+-				WLog_INFO(TAG, "<ctrl>+<alt>+c pressed, toggle encomps control...");
+-				if (freerdp_client_encomsp_toggle_control(xfc->common.encomsp))
+-					return TRUE;
+-				break;
+-			case XK_d:
+-			case XK_D:
+-				/* <ctrl>+<alt>+d: disconnect session */
+-				WLog_INFO(TAG, "<ctrl>+<alt>+d pressed, terminating RDP session...");
+-				xf_sync_kbd_state(xfc);
+-				return freerdp_abort_connect_context(&xfc->common.context);
+-
+-			default:
+-				break;
+-		}
+-	}
+-
+ #if 0 /* set to 1 to enable multi touch gesture simulation via keyboard */
+ #ifdef WITH_XRENDER
+ 
+@@ -1497,25 +1449,6 @@ void xf_keyboard_handle_special_keys_release(xfContext* xfc, KeySym keysym)
+ 
+ 	xfc->wasRightCtrlAlreadyPressed = FALSE;
+ 
+-	if (!xfc->ungrabKeyboardWithRightCtrl)
+-		return;
+-
+-	// all requirements for ungrab are fulfilled, ungrabbing now
+-	XF_MODIFIER_KEYS mod = WINPR_C_ARRAY_INIT;
+-	xk_keyboard_get_modifier_keys(xfc, &mod);
+-
+-	if (!mod.RightCtrl)
+-	{
+-		if (!xfc->fullscreen)
+-		{
+-			xf_sync_kbd_state(xfc);
+-			freerdp_client_encomsp_toggle_control(xfc->common.encomsp);
+-		}
+-
+-		xfc->mouse_active = FALSE;
+-		xf_ungrab(xfc);
+-	}
+-
+ 	// ungrabbed
+ 	xfc->ungrabKeyboardWithRightCtrl = FALSE;
+ }
+-- 
+2.50.1 (Apple Git-155)
+
