@@ -6125,7 +6125,7 @@ BOOL freerdp_client_load_addins(rdpChannels* channels, rdpSettings* settings)
 		{ FreeRDP_RemoteCredentialGuard, RDPEAR_CHANNEL_NAME, nullptr },
 #endif
 #ifdef CHANNEL_RDPEWA_CLIENT
-		{ FreeRDP_RedirectWebAuthN, RDPEWA_CHANNEL_NAME, nullptr },
+		{ FreeRDP_BOOL_UNUSED, RDPEWA_CHANNEL_NAME, nullptr }, /* always loaded */
 #endif
 	};
 
