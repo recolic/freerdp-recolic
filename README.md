@@ -1,8 +1,8 @@
 # recolic fork: NO shortcut
 
-disabled all shortcut.
+disabled all shortcut + turn on RedirectWebAuthN=1 by default
 
-Build: `cmake .. -DCMAKE_BUILD_TYPE=Release -DWITH_CLIENT_SDL=OFF -DWITH_SERVER=OFF`
+Build: `cmake .. -DCMAKE_BUILD_TYPE=Release -DWITH_CLIENT_SDL=OFF -DWITH_SERVER=OFF   -DCHANNEL_RDPEWA=ON -DCHANNEL_RDPEWA_CLIENT=ON`
 
 # FreeRDP: A Remote Desktop Protocol Implementation
 
