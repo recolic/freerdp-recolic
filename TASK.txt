@@ -1,0 +1,25 @@
+xfreerdp. after this PR: https://github.com/FreeRDP/FreeRDP/pull/11384
+something is broken.
+
+in good case, gnome-screenshot from laptop won't inject mouse events into VM.
+in bad case, mouse events went into VM even if screenshot happens on laptop.
+
+bad commit: 3805575c5819b59938135d4dccd35797cba11a14  Fri Apr 11 08:21:14 2025 +
+good commit: cf11b32bd527d0413a87cbf40014019d1a7bf1f5  Fri Apr 11 08:20:45 2025 +0200
+
+video attached.
+
+----
+Note: HOW TO BUILD & TEST
+
+mkdir -p build ; cd build
+rm -rf * ; cmake .. -DCMAKE_BUILD_TYPE=Release -DWITH_CLIENT_SDL=OFF -DWITH_SERVER=OFF ; and make -j 12
+
+./client/X11/xfreerdp -grab-keyboard -toggle-fullscreen /auth-pkg-list:!kerberos,!u2u /w:2560 /h:1340 /u:recolic /p:todo.your.pass /v:localhost:30477 /timeout:100000
+
+> I tried -grab-mouse /mouse:relative:off,grab:off but doesn't help
+
+----
+Ask:
+1. RCA.
+2. Give a minimal fix.
