@@ -1,0 +1,718 @@
+[17:44:05:873] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:873] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:882] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:882] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:889] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:889] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:899] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:899] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:909] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:909] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:915] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:915] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:926] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:926] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:932] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:932] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:945] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:946] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:946] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:946] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:959] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:959] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:965] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:965] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:976] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:976] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:989] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:989] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:989] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:989] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:002] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:002] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:012] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:012] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:019] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:019] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:029] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:029] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:039] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:039] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:045] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:045] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:055] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:055] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:062] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:062] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:076] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:076] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:086] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:086] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:086] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:086] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:099] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:099] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:109] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:109] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:119] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:119] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:125] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:125] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:132] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:132] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:146] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:146] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:152] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:152] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:159] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:159] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:169] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:169] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:179] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:179] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:186] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:186] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:195] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:196] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:202] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:202] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:212] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:212] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:222] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:222] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:229] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:229] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:242] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:242] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:242] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:242] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:256] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:256] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:269] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:269] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:269] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:269] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:282] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:282] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:292] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:292] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:299] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:299] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:309] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:309] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:316] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:316] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:325] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:325] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:345] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:345] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:352] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:352] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:366] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:366] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:366] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:366] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:382] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:382] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:382] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:382] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:399] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:399] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:409] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:409] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:409] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:409] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:426] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:426] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:435] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:435] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:436] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:436] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:449] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:449] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:459] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:459] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:465] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:465] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:482] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:482] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:482] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:482] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:495] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:495] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:502] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:502] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:512] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:512] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:519] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:519] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:529] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:529] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:539] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:539] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:545] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:545] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:562] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:562] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:593] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:593] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:593] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_ButtonPress(4) xany=0x400000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:593] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_ButtonPress(4) reason=window-mismatch xany=0x400000083 handle=0x04600002
+[17:44:05:606] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:606] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:615] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:616] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:622] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:622] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:632] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:632] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:642] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:642] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:649] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:649] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:659] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:659] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:666] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:666] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:679] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:679] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:689] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:689] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:689] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:689] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:702] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:702] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:712] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:712] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:719] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:719] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:729] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:729] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:735] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:735] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:746] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:746] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:755] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:756] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:766] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:766] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:776] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:776] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:782] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:782] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:05:782] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_ButtonRelease(5) xany=0x500000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:782] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_ButtonRelease(5) reason=window-mismatch xany=0x500000083 handle=0x04600002
+[17:44:05:782] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:05:782] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:806] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:806] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:816] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:816] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:829] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:829] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:846] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:846] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:846] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:846] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:856] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:856] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:856] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:856] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:872] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:872] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:879] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:879] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:885] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:885] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:895] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:895] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:905] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:906] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:916] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:916] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:926] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:926] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:926] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:926] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:939] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:939] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:946] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:946] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:956] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:956] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:965] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:966] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:975] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:975] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:982] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:982] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:996] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:996] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:996] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:996] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:012] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:012] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:013] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:013] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:026] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:026] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:039] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:039] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:039] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:039] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:055] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:056] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:062] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:062] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:072] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:072] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:082] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:082] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:082] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:082] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:109] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:109] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:109] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:109] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:109] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:109] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:122] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:122] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:132] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:132] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:142] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:142] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:152] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:152] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:152] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:152] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:166] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:166] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:176] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:176] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:185] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:186] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:192] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:192] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:205] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:206] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:206] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:206] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:222] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:222] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:222] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:222] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:235] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:235] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:245] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:245] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:255] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:255] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:262] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:262] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:276] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:276] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:276] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:276] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:292] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:292] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:302] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:302] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:302] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:302] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:319] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:319] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:319] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:319] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:336] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:336] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:342] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:342] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:352] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:352] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:359] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:359] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:369] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:369] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:379] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:379] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:389] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:389] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:389] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:389] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:402] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:402] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:412] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:412] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:419] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:419] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:429] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:429] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:435] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:435] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:445] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:446] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:455] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:455] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:465] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:466] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:472] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:472] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:482] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:482] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:489] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:489] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:499] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:499] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:509] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:509] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:519] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:519] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:529] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:529] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:529] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:529] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:545] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:545] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:555] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:555] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:556] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:556] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:572] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:572] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:572] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:572] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:589] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:589] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:599] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:599] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:599] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:599] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:615] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:615] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:626] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:626] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:626] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:626] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:639] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:639] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:645] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:645] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:655] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:655] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:665] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:665] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:672] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:672] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:682] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:682] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:692] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:692] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:699] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:699] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:709] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:709] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:715] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:715] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:725] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:725] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:735] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:735] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:742] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:742] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:762] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:762] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:762] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:762] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:06:779] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:06:779] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:786] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:786] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:795] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:795] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:805] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:805] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:812] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:812] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:822] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:822] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:832] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:832] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:839] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:839] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:849] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:849] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:859] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:859] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:866] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:866] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:876] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:876] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:882] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:882] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:892] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:892] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:902] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:902] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:909] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:909] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:919] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:919] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:925] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:926] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:935] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:935] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:945] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:945] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:952] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:952] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:962] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:962] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:972] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:972] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:979] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:979] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:989] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:989] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:995] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:995] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:005] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:005] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:015] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:016] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:022] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:022] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:032] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:032] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:042] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:042] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:086] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:086] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:092] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_ButtonPress(4) xany=0x400000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:092] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_ButtonPress(4) reason=window-mismatch xany=0x400000083 handle=0x04600002
+[17:44:07:106] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:106] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:112] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:112] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:142] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:142] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:142] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:142] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:155] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:156] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:166] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:166] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:175] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:175] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:182] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:182] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:192] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:192] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:199] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:199] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:205] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:205] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:215] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:215] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:225] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:225] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:232] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:232] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:242] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:242] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:259] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:259] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:259] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:259] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:269] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:269] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:279] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:279] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:285] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:285] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:286] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_ButtonRelease(5) xany=0x500000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:286] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_ButtonRelease(5) reason=window-mismatch xany=0x500000083 handle=0x04600002
+[17:44:07:286] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:286] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:295] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:295] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:302] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:302] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:312] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:312] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:322] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:322] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:329] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:329] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:339] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:339] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:350] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:350] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:355] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:355] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:365] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:365] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:375] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:375] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:382] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:382] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:396] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:396] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:397] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:397] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:412] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:412] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:426] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:426] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:426] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:426] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:435] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:436] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:442] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:442] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:452] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:452] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:466] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:466] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:479] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:479] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:479] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:479] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:489] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:489] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:499] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:499] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:505] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:505] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:516] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:516] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:522] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:522] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:536] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:536] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:536] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:536] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:549] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:549] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:559] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:559] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:566] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:566] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:575] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:576] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:582] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:582] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:592] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:592] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:602] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:602] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:609] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:609] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:619] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:619] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:629] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:629] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:635] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:635] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:649] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:649] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:650] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:650] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:662] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:662] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:672] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:672] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:679] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:679] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:692] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:692] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:692] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:692] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:709] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:709] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:716] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:716] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:725] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:725] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:732] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:732] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:742] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:742] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:749] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:749] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:759] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:759] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:766] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:766] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:07:775] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:07:775] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:785] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:785] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:802] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:802] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:802] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:802] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:812] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:812] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:819] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:819] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:829] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:829] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:835] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:835] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:845] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:845] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:855] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:855] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:862] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:862] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:872] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:872] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:882] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:882] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:889] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:889] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:902] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:902] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:909] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:909] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:929] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:929] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:056] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:056] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:066] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:066] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:092] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:092] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:126] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:126] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:136] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:136] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:143] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:143] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:169] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:169] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:196] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:196] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:212] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:212] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:259] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:259] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:265] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:266] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:303] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:303] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:08:349] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:08:349] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:09:149] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:09:149] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:09:160] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:09:160] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:09:175] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:09:176] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:09:176] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:09:176] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+[17:44:09:185] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG enter ev=XI_Motion(6) xany=0x600000083 handle=0x04600002 remote_app=0 grabbed=0 rel=0 hidden=0 focused=0 mouse_active=0
+[17:44:09:185] [2509490:00264ab3] [WARN][com.freerdp.client.x11] - [xf_input_event]: XINPUTDBG drop ev=XI_Motion(6) reason=window-mismatch xany=0x600000083 handle=0x04600002
+
+
