@@ -758,6 +758,9 @@ int xf_input_event(xfContext* xfc, WINPR_ATTR_UNUSED const XEvent* xevent, XIDev
 	xfWindow* window = xfc->window;
 	if (window)
 	{
+               /* Ignore events for other windows */
+               if (xevent->xany.window != window->handle && !xfc->remote_app)
+                       return 0;
 		if (xf_floatbar_is_locked(window->floatbar))
 			return 0;
 	}
